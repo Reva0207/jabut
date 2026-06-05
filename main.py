@@ -1,4 +1,4 @@
-```python
+
 import requests
 import pyautogui
 import time
